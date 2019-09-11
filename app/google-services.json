@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49649235216",
+    "firebase_url": "https://new-room-apps.firebaseio.com",
+    "project_id": "new-room-apps",
+    "storage_bucket": "new-room-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49649235216:android:8d25161b72b2f173c76195",
+        "android_client_info": {
+          "package_name": "com.raushan.roomapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49649235216-1bns8cvdvielp5lpnkeoi8c7unag873a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOj8vqwwZaFoE-sKwtAcCUrNbgC3mP1lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49649235216-1bns8cvdvielp5lpnkeoi8c7unag873a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
