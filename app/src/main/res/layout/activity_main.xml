@@ -78,7 +78,7 @@
                     android:paddingTop="0dp"
                     android:paddingEnd="@dimen/space_8"
                     android:paddingBottom="0dp"
-                    android:text="@string/selected_city_add"
+                    android:text="POST A FREE AD"
                     android:textAlignment="center"
                     android:textColor="@color/text__white"
                     android:textSize="@dimen/font_title_size"
@@ -110,9 +110,10 @@
             android:layout_height="match_parent"
             android:layout_gravity="start"
             android:fitsSystemWindows="true"
+            android:background="@android:color/holo_green_dark"
             app:headerLayout="@layout/drawer_header"
-            app:itemIconTint="@color/text__primary"
-            app:itemTextColor="@color/text__primary"
+            app:itemIconTint="@android:color/white"
+            app:itemTextColor="@android:color/white"
             app:menu="@menu/menu_drawer" />
 
     </androidx.drawerlayout.widget.DrawerLayout>

@@ -5,10 +5,10 @@
     <!-- Color Apply to Views                                               -->
     <!--********************************************************************-->
 
-    <color name="global__primary_light">#DD6367</color>
-    <color name="global__primary">#D2232A</color>
+    <color name="global__primary_light">#66B920</color>
+    <color name="global__primary">#71C72B</color>
     <color name="global__primary_transparent">#80D2232A</color>
-    <color name="global__primary_dark">#B2160F</color>
+    <color name="global__primary_dark">#3C7E01</color>
     <color name="global__accent">#90a4ae</color>
 
     <color name="layout__primary_background">@color/md_grey_50</color>
